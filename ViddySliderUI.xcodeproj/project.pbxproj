@@ -18,6 +18,10 @@
 		113BAAED169B97C300C09FC6 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 113BAAEC169B97C300C09FC6 /* Default-568h@2x.png */; };
 		113BAAF0169B97C300C09FC6 /* AhmViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 113BAAEF169B97C300C09FC6 /* AhmViewController.m */; };
 		113BAAF3169B97C300C09FC6 /* AhmViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 113BAAF1169B97C300C09FC6 /* AhmViewController.xib */; };
+		113BAB06169B9CE000C09FC6 /* friends.png in Resources */ = {isa = PBXBuildFile; fileRef = 113BAAFF169B9CE000C09FC6 /* friends.png */; };
+		113BAB07169B9CE000C09FC6 /* image.png in Resources */ = {isa = PBXBuildFile; fileRef = 113BAB00169B9CE000C09FC6 /* image.png */; };
+		113BAB08169B9CE000C09FC6 /* switches.png in Resources */ = {isa = PBXBuildFile; fileRef = 113BAB01169B9CE000C09FC6 /* switches.png */; };
+		113BAB0A169B9CE000C09FC6 /* world.png in Resources */ = {isa = PBXBuildFile; fileRef = 113BAB03169B9CE000C09FC6 /* world.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +41,10 @@
 		113BAAEE169B97C300C09FC6 /* AhmViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AhmViewController.h; sourceTree = "<group>"; };
 		113BAAEF169B97C300C09FC6 /* AhmViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AhmViewController.m; sourceTree = "<group>"; };
 		113BAAF2169B97C300C09FC6 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/AhmViewController.xib; sourceTree = "<group>"; };
+		113BAAFF169B9CE000C09FC6 /* friends.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = friends.png; sourceTree = "<group>"; };
+		113BAB00169B9CE000C09FC6 /* image.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = image.png; sourceTree = "<group>"; };
+		113BAB01169B9CE000C09FC6 /* switches.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = switches.png; sourceTree = "<group>"; };
+		113BAB03169B9CE000C09FC6 /* world.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = world.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +64,10 @@
 		113BAAC7169B97C300C09FC6 = {
 			isa = PBXGroup;
 			children = (
+				113BAAFF169B9CE000C09FC6 /* friends.png */,
+				113BAB00169B9CE000C09FC6 /* image.png */,
+				113BAB01169B9CE000C09FC6 /* switches.png */,
+				113BAB03169B9CE000C09FC6 /* world.png */,
 				113BAADC169B97C300C09FC6 /* ViddySliderUI */,
 				113BAAD5169B97C300C09FC6 /* Frameworks */,
 				113BAAD3169B97C300C09FC6 /* Products */,
@@ -164,6 +176,10 @@
 				113BAAEB169B97C300C09FC6 /* Default@2x.png in Resources */,
 				113BAAED169B97C300C09FC6 /* Default-568h@2x.png in Resources */,
 				113BAAF3169B97C300C09FC6 /* AhmViewController.xib in Resources */,
+				113BAB06169B9CE000C09FC6 /* friends.png in Resources */,
+				113BAB07169B9CE000C09FC6 /* image.png in Resources */,
+				113BAB08169B9CE000C09FC6 /* switches.png in Resources */,
+				113BAB0A169B9CE000C09FC6 /* world.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
